@@ -59,14 +59,14 @@
 
         hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
         {
-            userMessages.Add(new UserMessage { Username = user, Message = message, CurrentUser = user == usernameInput, DataSent = DateTime.Now });
-
-            StateHasChanged();
-
+            InvokeAsync(() =>
+            {
+                userMessages.Add(new UserMessage { Username = user, Message = message, CurrentUser = user == usernameInput, DataSent = DateTime.Now });
+                StateHasChanged();
+            });
         });
 
         await hubConnection.StartAsync();
-
     }
 
     private async Task Send()

@@ -4,10 +4,10 @@
 @inject NavigationManager NavigationManager
 @implements IAsyncDisposable
 
-<div class="container overflow-auto shadow-sm p-3 mb-5 bg-white rounded" style="height: 500px;">
+<div class="container overflow-auto shadow-sm p-3 mb-3 bg-white rounded" style="height: 500px;">
     @if (!userMessages.Any())
     {
-        <p>No Messages yet, start chatting!</p>
+        <p>No messages yet, start chatting!</p>
     }
 
     @foreach(var userMessage in userMessages)
@@ -18,10 +18,10 @@
                    @(userMessage.CurrentUser ? "You" : userMessage.Username)
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item@(userMessage.CurrentUser ? "color-green" :  "")">@userMessage.Message</li>
+                            <li class="list-group-item@(userMessage.CurrentUser ? "color-green" :  "") p-3 list-unstyled">@userMessage.Message</li>
                 </ul>
                 <div class="card-footer">
-                    <span class="small">@userMessage.DataSent.ToString("HH:mm | MMM dd")</span>
+                        <span class="small">@userMessage.DataSent.ToString("h:mmtt | MMM dd")</span>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
             <input @bind="usernameInput" type="text" class="form-control" placeholder="Your name" readonly="@isUserReadonly"/>
         </div>
         <div class="col-6">
-            <textarea @bind="messageInput" class="form-control" placeholder="Start typing..."></textarea>
+            <textarea @bind="messageInput" class="form-control no-resize" placeholder="Start typing..." rows="1"></textarea>
         </div>
         <div class="col-3">
             <button type="button" @onclick="Send" disabled="@(!IsConnected)" class="btn btn-primary">Send</button>

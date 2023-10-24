@@ -1,0 +1,156 @@
+﻿@page "/Academy"
+@inject DbContext db            // Inject the ServerDbContext service for database access
+@inject NavigationManager _nav
+@layout MainLayout
+@using LlamaLingo.Models
+@using System.Data.SqlClient;
+@using System.Data;
+
+<h3>
+	<p>P.O.D.#:@pod</p>
+	<p>Person#:@pid</p>
+</h3>
+
+<style>
+	body {
+		background: url(images/BG/Role_BG.png)no-repeat;
+		background-size: 1920px 1080px;
+		background-position: left 0px top 0px;
+		opacity: 100%;
+		color: blanchedalmond;
+	}
+
+	button {
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		width: 280px;
+		height: 120px;
+		text-align: center;
+		top: 100px;
+		color: black;
+		background-color: pink;
+		border-radius: 24px;
+		position: absolute;
+		left: 210px;
+		opacity: 100%;
+		border-radius: 8px;
+		transition-duration: .60s;
+	}
+
+	.buttonReport01 {
+		background-image: url("Images/buttons/btn_luster_Report.png");
+		background-size: cover;
+		margin: 10px;
+		box-shadow: 0 30px 60px rgba(0,0,0,.5);
+	}
+
+		.buttonReport01:hover {
+			box-shadow: 0 5px 10px rgba(0,0,0,.5);
+			transform: scale(.85);
+		}
+
+	.buttonMenu02 {
+		background-image: url("Images/buttons/btn_luster_Verb.png");
+		background-size: cover;
+		margin: 10px;
+		box-shadow: 0 30px 60px rgba(0,0,0,.5);
+	}
+
+		.buttonMenu02:hover {
+			box-shadow: 0 5px 10px rgba(0,0,0,.5);
+			transform: scale(.85);
+		}
+
+	.buttonMenu03 {
+		background-image: url("Images/buttons/btn_luster_NOVA.png");
+		background-size: cover;
+		margin: 10px;
+		box-shadow: 0 30px 60px rgba(0,0,0,.5);
+	}
+
+		.buttonMenu03:hover {
+			box-shadow: 0 5px 10px rgba(0,0,0,.5);
+			transform: scale(.85);
+		}
+
+	.exhibitPanel {
+		position: absolute;
+		top: 370px;
+		left: 500px;
+		color: black;
+		width: 540px;
+		font-size: x-large;
+		text-overflow: ellipsis;
+		/* Required for text-overflow to do anything */
+		white-space: nowrap;
+		overflow: hidden;
+	}
+
+	.exhibitInfo {
+		position: absolute;
+		top: 350px;
+		left: 600px;
+		color: blanchedalmond;
+		width: 540px;
+		height: 700px;
+		font-size: x-large;
+		text-overflow: ellipsis;
+		/* Required for text-overflow to do anything */
+		white-space: nowrap;
+		overflow: hidden;
+	}
+
+	.titlebanner {
+		position: absolute;
+		top: 50px;
+		left: 660px;
+		background-image: url("Images/buttons/UseCase_engr.png");
+		padding: 0;
+		margin: 0;
+		color: black;
+		border-radius: 24px;
+	}
+
+</style>
+
+<!-- ************************************************************************************ -->
+<!-- ******************************** DISPLAY PANELS ************************************ -->
+<!-- ************************************************************************************ -->
+
+
+<div class="titlebanner">
+	<img src="images/UIpanels/UseCase_acad.png" />
+</div>
+
+<!-- ************************************************************************************ -->
+<!-- *************************** ACADEMY REPORTS **************************************** -->
+<!-- ************************************************************************************ -->
+
+<button class="buttonReport01" @onclick="@(()=>_nav.NavigateTo("/AcademyRpt01?pod="+pod+"&pid="+pid))"
+		style=" top: 300px;	left: 320px">
+	<!-- Goal (place a text button label here) -->
+</button>
+
+<button class="buttonMenu02" @onclick="@(()=>_nav.NavigateTo("/Verb?pod="+pod+"&pid="+pid))"
+		style=" top: 470px;	left: 320px">
+	<!-- Goal (place a text button label here) -->
+</button>
+
+<button class="buttonMenu03" @onclick="@(()=>_nav.NavigateTo("/Nova?pod="+pod+"&pid="+pid))"
+		style=" top: 640px;	left: 320px">
+	<!-- Goal (place a text button label here) -->
+</button>
+
+<!-- ************************************************************************************ -->
+<!-- ******************************** INPUT PARAMETERS ********************************** -->
+<!-- ************************************************************************************ -->
+
+@code {
+	[Parameter]
+	[SupplyParameterFromQuery]
+	public int? pod { get; set; }
+	[Parameter]
+	[SupplyParameterFromQuery]
+	public int? pid { get; set; }
+}

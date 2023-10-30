@@ -20,7 +20,7 @@
 		color: blanchedalmond;
 	}
 
-	button {
+	.button-container button {
 		padding: 0;
 		margin: 0;
 		position: absolute;
@@ -124,22 +124,22 @@
 <!-- ************************************************************************************ -->
 <!-- *************************** ADMINISTATION ****************************************** -->
 <!-- ************************************************************************************ -->
+<div class="button-container">
+	<button class="buttonMenu02" @onclick="@(()=>_nav.NavigateTo("/Person?pod="+pod+"&pid="+pid))"
+			style=" top: 300px;	left: 320px">
+		<!-- Goal (place a text button label here) -->
+	</button>
 
-<button class="buttonMenu02" @onclick="@(()=>_nav.NavigateTo("/Person?pod="+pod+"&pid="+pid))"
-		style=" top: 300px;	left: 320px">
-	<!-- Goal (place a text button label here) -->
-</button>
+	<button class="buttonReport01" @onclick="@(()=>_nav.NavigateTo("/NnetRPT01?pod="+pod+"&pid="+pid))"
+			style=" top: 470px;	left: 320px">
+		<!-- Goal (place a text button label here) -->
+	</button>
 
-<button class="buttonReport01" @onclick="@(()=>_nav.NavigateTo("/NnetRPT01?pod="+pod+"&pid="+pid))"
-		style=" top: 470px;	left: 320px">
-	<!-- Goal (place a text button label here) -->
-</button>
-
-<button class="buttonMenu03" @onclick="@(()=>_nav.NavigateTo("/Nova?pod="+pod+"&pid="+pid))"
-		style=" top: 640px;	left: 320px">
-	<!-- Goal (place a text button label here) -->
-</button>
-
+	<button class="buttonMenu03" @onclick="@(()=>_nav.NavigateTo("/Nova?pod="+pod+"&pid="+pid))"
+			style=" top: 640px;	left: 320px">
+		<!-- Goal (place a text button label here) -->
+	</button>
+</div>
 <!-- ************************************************************************************ -->
 <!-- ******************************** INPUT PARAMETERS ********************************** -->
 <!-- ************************************************************************************ -->

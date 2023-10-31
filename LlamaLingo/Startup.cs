@@ -47,6 +47,9 @@ namespace LlamaLingo
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //Register Syncfusion license
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NHaF5cWWBCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdgWH9dcXVXRWRfU0FzVkI=");
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

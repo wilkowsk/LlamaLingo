@@ -11,7 +11,9 @@
           "Microsoft.AspNetCore.SignalR.Client": "7.0.12",
           "Microsoft.EntityFrameworkCore.Design": "7.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.12"
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.12",
+          "Syncfusion.Blazor": "23.1.43",
+          "Syncfusion.Licensing": "23.1.43"
         },
         "runtime": {
           "LlamaLingo.dll": {}
@@ -59,6 +61,34 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Authorization/7.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "7.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.1",
+          "Microsoft.Extensions.Options": "7.0.1"
+        }
+      },
+      "Microsoft.AspNetCore.Components/7.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "7.0.0",
+          "Microsoft.AspNetCore.Components.Analyzers": "7.0.0"
+        }
+      },
+      "Microsoft.AspNetCore.Components.Analyzers/7.0.0": {},
+      "Microsoft.AspNetCore.Components.Forms/7.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "7.0.0"
+        }
+      },
+      "Microsoft.AspNetCore.Components.Web/7.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "7.0.0",
+          "Microsoft.AspNetCore.Components.Forms": "7.0.0",
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "Microsoft.JSInterop": "7.0.0",
+          "System.IO.Pipelines": "7.0.0"
+        }
+      },
       "Microsoft.AspNetCore.Connections.Abstractions/7.0.12": {
         "dependencies": {
           "Microsoft.Extensions.Features": "7.0.12",
@@ -95,6 +125,7 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Metadata/7.0.0": {},
       "Microsoft.AspNetCore.SignalR.Client/7.0.12": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Connections.Client": "7.0.12",
@@ -448,6 +479,7 @@
           }
         }
       },
+      "Microsoft.JSInterop/7.0.0": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.SqlServer.Server/1.0.0": {
@@ -482,6 +514,54 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {
             "assemblyVersion": "2.2.0.0",
             "fileVersion": "2.2.1.1"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.2": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
+          }
+        }
+      },
+      "Syncfusion.Blazor/23.1.43": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.0",
+          "Newtonsoft.Json": "13.0.2",
+          "Syncfusion.ExcelExport.Net.Core": "23.1.43",
+          "Syncfusion.Licensing": "23.1.43",
+          "Syncfusion.PdfExport.Net.Core": "23.1.43",
+          "System.Text.Json": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.ExcelExport.Net.Core/23.1.43": {
+        "runtime": {
+          "lib/net7.0/Syncfusion.ExcelExport.Net.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/23.1.43": {
+        "runtime": {
+          "lib/net7.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.PdfExport.Net.Core/23.1.43": {
+        "runtime": {
+          "lib/net7.0/Syncfusion.PdfExport.Net.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
           }
         }
       },
@@ -692,6 +772,41 @@
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Authorization/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0O7C7XHj+17Q0geMpnpRC0fnnALH2Yhaa2SAzX00OkeF2NZ/+zWoDymbSnepg1qhueufUivihZiVGtMeq5Zywg==",
+      "path": "microsoft.aspnetcore.authorization/7.0.0",
+      "hashPath": "microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8bz6m5cb5VJTftEbfMCLTcoH9+5tTAX8AuOf9z7Q86joRBkkkKYNrEozhZhZwjOStVbQIQzsYJZQQETaVALNQQ==",
+      "path": "microsoft.aspnetcore.components/7.0.0",
+      "hashPath": "microsoft.aspnetcore.components.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Analyzers/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIxDb79WhKacD2L3+h+iVjwMmj46bCNsikizqIgffpqZnB0WwtJJ17jxcqXcjp/oVkcRjzoEleaMEE5ysX4tvg==",
+      "path": "microsoft.aspnetcore.components.analyzers/7.0.0",
+      "hashPath": "microsoft.aspnetcore.components.analyzers.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Forms/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xmcICgXAkrCQ3d4cNgD5YxtFqTPvnOl0hS7orIIziWZ3OQLAYFDpDhpITbK13iRSqsN5GXpxgzHIrAIr2ail8A==",
+      "path": "microsoft.aspnetcore.components.forms/7.0.0",
+      "hashPath": "microsoft.aspnetcore.components.forms.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UkwVMsRozkcKl18Qjc8jyXM/L+ehRMqDblkCGgheGU0WC/EB/yfw/cwTEbiAeztgfVlSpC6a19Zm75U+ie+RCw==",
+      "path": "microsoft.aspnetcore.components.web/7.0.0",
+      "hashPath": "microsoft.aspnetcore.components.web.7.0.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Connections.Abstractions/7.0.12": {
       "type": "package",
       "serviceable": true,
@@ -712,6 +827,13 @@
       "sha512": "sha512-c5PhGoeYDWijmk9cuGQn4x3kANfS7pdjUIp1tnO9CR5zlzDpQOqVBj5uTrtmPbSgTS/6Oy48LHd5Y+2it2XlLQ==",
       "path": "microsoft.aspnetcore.http.connections.common/7.0.12",
       "hashPath": "microsoft.aspnetcore.http.connections.common.7.0.12.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ut2azlKz7BQpCKu6AiwKEjMHpRWoD4qu2Ff/n6KagjFsyDAfZY7lgYJ158vr4O0jXet6pV1uF1q3jmXvki0OlA==",
+      "path": "microsoft.aspnetcore.metadata/7.0.0",
+      "hashPath": "microsoft.aspnetcore.metadata.7.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.SignalR.Client/7.0.12": {
       "type": "package",
@@ -951,6 +1073,13 @@
       "path": "microsoft.identitymodel.tokens/6.24.0",
       "hashPath": "microsoft.identitymodel.tokens.6.24.0.nupkg.sha512"
     },
+    "Microsoft.JSInterop/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C9diwCnaWZ7PH3zOyf2zgcwFEqbSU11DzCnUPXCf5cqXMFeZDrEDP+M74TiCURKJ5vxImRvMtD7RiHYCtkxoXw==",
+      "path": "microsoft.jsinterop/7.0.0",
+      "hashPath": "microsoft.jsinterop.7.0.0.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -985,6 +1114,41 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+    },
+    "Syncfusion.Blazor/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-npt837YHHCZq5rqqNOrWSm/06R3XogaVUOfgesU1V7cCDMa3ivsyhiqygo2Rbpn/hyjlPoDdKRqLqTecFfvl8Q==",
+      "path": "syncfusion.blazor/23.1.43",
+      "hashPath": "syncfusion.blazor.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.ExcelExport.Net.Core/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YM+XJ+WFwd9gAW63LBnVBDfMkKTkSECk5WAxvDf68DlPd2gT5bwPbyRv0J4+EI+yJU+KweO85/NY6vfheLtwQw==",
+      "path": "syncfusion.excelexport.net.core/23.1.43",
+      "hashPath": "syncfusion.excelexport.net.core.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ys9pmuOmgAhxwbmTI99p2bP3bd60BNshze/mQRHKDofPUY5ac9Wte+NseUwqqG8IFHI/Kdv4YI5+bMFAozR/+A==",
+      "path": "syncfusion.licensing/23.1.43",
+      "hashPath": "syncfusion.licensing.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.PdfExport.Net.Core/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GGYhXwxOFdF2XnFWgA06uqgJW4NAph+Fh0psZeUUhX8+1hzaq1CXe+juFxRroYh3wozxy2zvY5IQL2gPinlh1A==",
+      "path": "syncfusion.pdfexport.net.core/23.1.43",
+      "hashPath": "syncfusion.pdfexport.net.core.23.1.43.nupkg.sha512"
     },
     "System.CodeDom/4.4.0": {
       "type": "package",

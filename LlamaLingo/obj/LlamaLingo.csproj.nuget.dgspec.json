@@ -42,29 +42,33 @@
           "dependencies": {
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
-            "Syncfusion.Blazor": {
+            "Syncfusion.Blazor.Charts": {
               "target": "Package",
               "version": "[23.1.43, )"
             },
-            "Syncfusion.Licensing": {
+            "Syncfusion.Blazor.Navigations": {
+              "target": "Package",
+              "version": "[23.1.43, )"
+            },
+            "Syncfusion.Blazor.Themes": {
               "target": "Package",
               "version": "[23.1.43, )"
             }

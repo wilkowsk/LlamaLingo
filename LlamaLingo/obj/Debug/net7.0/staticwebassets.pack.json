@@ -29,6 +29,22 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\syncfusion\\icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\syncfusion\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\syncfusion\\icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\syncfusion\\icons.woff"
+    },
+    {
       "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
@@ -67,6 +83,10 @@
     {
       "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\syncfusion-blazor-icons.css",
+      "PackagePath": "staticwebassets\\css\\syncfusion-blazor-icons.css"
     },
     {
       "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\favicon.ico",
@@ -359,6 +379,10 @@
     {
       "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_list.png",
       "PackagePath": "staticwebassets\\images\\buttons\\btn_list.png"
+    },
+    {
+      "Id": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\scripts\\lodash.min.js",
+      "PackagePath": "staticwebassets\\scripts\\lodash.min.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LlamaLingo.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Syncfusion.Blazor;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +33,10 @@ namespace LlamaLingo
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
+
+            // Register Syncfusion services
+            services.AddSyncfusionBlazor();
+
             services.AddSingleton<WeatherForecastService>();
             services.AddResponseCompression(opts =>
             {
@@ -48,7 +53,7 @@ namespace LlamaLingo
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             //Register Syncfusion license
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NHaF5cWWBCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdgWH9dcXVXRWRfU0FzVkI=");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NHaF5cWWBCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdgWH5ecXVcRmlZU011W0Q=");
 
             if (env.IsDevelopment())
             {

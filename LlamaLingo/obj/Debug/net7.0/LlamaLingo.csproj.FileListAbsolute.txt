@@ -261,3 +261,8 @@ C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusio
 C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.ExcelExport.Net.dll
 C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.Licensing.dll
 C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.PdfExport.Net.dll
+C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.Blazor.dll
+C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.ExcelExport.Net.dll
+C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\bin\Debug\net7.0\Syncfusion.PdfExport.Net.dll

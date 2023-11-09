@@ -9,93 +9,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LlamaLingo
 build_property.RootNamespace = LlamaLingo
-build_property.ProjectDir = C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo\
+build_property.ProjectDir = C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\denis\OneDrive\Documents\GitHub\LlamaLingo\LlamaLingo
+build_property.MSBuildProjectDirectory = C:\Users\JXEli\Documents\GitHub\LlamaLingo\LlamaLingo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/App.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Counter.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/FetchData.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Index.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/GanttChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FudHRDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Media_Audio.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Media_Audio.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWFfQXVkaW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Media_Video.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Media_Video.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWFfVmlkZW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_acad.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_acad.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV9hY2FkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_admn.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_admn.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV9hZG1uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_ainn.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_ainn.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV9haW5uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_engr.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_engr.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV9lbmdyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_user.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_user.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV91c2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_xprt.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Menu_xprt.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudV94cHJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Page_Noun.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Page_Noun.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZV9Ob3VuLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Page_Verb.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Page_Verb.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZV9WZXJiLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/SurveyPrompt.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/RadarChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFkYXJDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/ToastFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9hc3RGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/_Imports.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/MainLayout.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ev0ybvepx7
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/NavMenu.razor]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fcj46uwyos
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Error.cshtml]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/_Host.cshtml]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/OneDrive/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/_Layout.cshtml]
+[C:/Users/JXEli/Documents/GitHub/LlamaLingo/LlamaLingo/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

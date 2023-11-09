@@ -25,6 +25,8 @@ public partial class DbContext : Microsoft.EntityFrameworkCore.DbContext
 
     public virtual DbSet<Pype> Pypes { get; set; }
 
+    public virtual DbSet<Task> Tasks { get; set; }
+
     public virtual DbSet<Verb> Verbs { get; set; }
 
     public virtual DbSet<ViewPodBase> ViewPodBases { get; set; }
@@ -255,6 +257,68 @@ public partial class DbContext : Microsoft.EntityFrameworkCore.DbContext
                 .HasDefaultValueSql("('A')")
                 .IsFixedLength()
                 .HasColumnName("Pype_status");
+        });
+
+        modelBuilder.Entity<Task>(entity =>
+        {
+            entity.HasKey(e => e.TaskId).HasName("PK_Task_1");
+
+            entity.ToTable("Task");
+
+            entity.Property(e => e.TaskId).HasColumnName("Task_ID");
+            entity.Property(e => e.NovaIdFk)
+                .HasDefaultValueSql("((1))")
+                .HasColumnName("NOVA_ID_FK");
+            entity.Property(e => e.ParentIdFk)
+                .HasDefaultValueSql("((1))")
+                .HasColumnName("Parent_ID_FK");
+            entity.Property(e => e.PersonIdFk)
+                .HasDefaultValueSql("((1))")
+                .HasColumnName("Person_ID_FK");
+            entity.Property(e => e.TaskDescription)
+                .IsRequired()
+                .HasMaxLength(255)
+                .HasDefaultValueSql("('description of goal step')")
+                .HasColumnName("Task_description");
+            entity.Property(e => e.TaskDuration)
+                .IsRequired()
+                .HasMaxLength(64)
+                .HasDefaultValueSql("((7))")
+                .HasColumnName("Task_duration");
+            entity.Property(e => e.TaskEntryDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("Task_entry_date");
+            entity.Property(e => e.TaskFinishDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("Task_finish_date");
+            entity.Property(e => e.TaskLabel)
+                .IsRequired()
+                .HasMaxLength(16)
+                .HasDefaultValueSql("('description of goal step')")
+                .IsFixedLength()
+                .HasColumnName("Task_label");
+            entity.Property(e => e.TaskLevel)
+                .HasDefaultValueSql("((1))")
+                .HasColumnName("Task_level");
+            entity.Property(e => e.TaskProgress).HasColumnName("Task_progress");
+            entity.Property(e => e.TaskStartDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("Task_start_date");
+            entity.Property(e => e.TaskStatus)
+                .IsRequired()
+                .HasMaxLength(1)
+                .HasDefaultValueSql("('A')")
+                .IsFixedLength()
+                .HasColumnName("Task_status");
+            entity.Property(e => e.TaskType)
+                .IsRequired()
+                .HasMaxLength(4)
+                .HasDefaultValueSql("(N'task')")
+                .IsFixedLength()
+                .HasColumnName("Task_type");
         });
 
         modelBuilder.Entity<Verb>(entity =>

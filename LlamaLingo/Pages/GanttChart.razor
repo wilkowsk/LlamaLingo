@@ -1,0 +1,24 @@
+﻿@page "/GanttChart"
+@using LlamaLingo.Models
+@inject DbContext db 
+
+<PageTitle>GanttChart</PageTitle>
+<h2>GanttChart</h2>
+
+<SfGantt DataSource="@TaskList" Height="450px" Width="700px" AllowSorting="true" AllowFiltering="true" EnableContextMenu="true" Toolbar="@(new List<string>() { "Search","Add", "Cancel", "Delete", "Edit", "Update","ZoomIn","ZoomOut","ZoomToFit"  })">
+    <GanttTaskFields Id="TaskId" Name="TaskLabel" StartDate="TaskStartDate" EndDate="TaskFinishDate" Duration="TaskDuration" Progress="TaskProgress" ParentID="ParentIdFk" ></GanttTaskFields>
+    <GanttSelectionSettings Mode="Syncfusion.Blazor.Grids.SelectionMode.Both"></GanttSelectionSettings>
+    <GanttEditSettings AllowEditing="true" AllowTaskbarEditing="true" AllowAdding="true" AllowDeleting="true" ShowDeleteConfirmDialog="true"></GanttEditSettings>
+    <GanttSearchSettings Fields="@Searchfields"></GanttSearchSettings>
+</SfGantt>
+
+
+@code {
+    IEnumerable<LlamaLingo.Models.Task> TaskList;
+
+    protected override void OnInitialized()
+    {
+        TaskList = db.Set<LlamaLingo.Models.Task>().ToList();
+    }
+    public string[] Searchfields = new string[] { "TaskId", "TaskLabel", "TaskStartDate", "TaskFinishDate", "TaskDuration", "TaskProgress","ParentIdFk"};
+}

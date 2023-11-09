@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.13",
           "Syncfusion.Blazor.Charts": "23.1.43",
+          "Syncfusion.Blazor.Gantt": "23.1.43",
           "Syncfusion.Blazor.Navigations": "23.1.43",
           "Syncfusion.Blazor.Themes": "23.1.43"
         },
@@ -529,6 +530,20 @@
           }
         }
       },
+      "Syncfusion.Blazor.Calendars/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "23.1.43",
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Inputs": "23.1.43",
+          "Syncfusion.Blazor.Lists": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.Calendars.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
       "Syncfusion.Blazor.Charts/23.1.43": {
         "dependencies": {
           "Syncfusion.Blazor.Core": "23.1.43",
@@ -594,6 +609,51 @@
           }
         }
       },
+      "Syncfusion.Blazor.Gantt/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "23.1.43",
+          "Syncfusion.Blazor.Calendars": "23.1.43",
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Data": "23.1.43",
+          "Syncfusion.Blazor.DropDowns": "23.1.43",
+          "Syncfusion.Blazor.Grid": "23.1.43",
+          "Syncfusion.Blazor.Inputs": "23.1.43",
+          "Syncfusion.Blazor.Layouts": "23.1.43",
+          "Syncfusion.Blazor.Lists": "23.1.43",
+          "Syncfusion.Blazor.Navigations": "23.1.43",
+          "Syncfusion.Blazor.Popups": "23.1.43",
+          "Syncfusion.Blazor.RichTextEditor": "23.1.43",
+          "Syncfusion.Blazor.Spinner": "23.1.43",
+          "Syncfusion.Blazor.TreeGrid": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.Gantt.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.Grid/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "23.1.43",
+          "Syncfusion.Blazor.Calendars": "23.1.43",
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Data": "23.1.43",
+          "Syncfusion.Blazor.DropDowns": "23.1.43",
+          "Syncfusion.Blazor.Inputs": "23.1.43",
+          "Syncfusion.Blazor.Navigations": "23.1.43",
+          "Syncfusion.Blazor.Popups": "23.1.43",
+          "Syncfusion.Blazor.Spinner": "23.1.43",
+          "Syncfusion.ExcelExport.Net.Core": "23.1.43",
+          "Syncfusion.PdfExport.Net.Core": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.Grids.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
       "Syncfusion.Blazor.Inputs/23.1.43": {
         "dependencies": {
           "Syncfusion.Blazor.Core": "23.1.43",
@@ -604,6 +664,18 @@
         },
         "runtime": {
           "lib/net7.0/Syncfusion.Blazor.Inputs.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.Layouts/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Data": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.Layouts.dll": {
             "assemblyVersion": "23.1.43.0",
             "fileVersion": "23.1.43.0"
           }
@@ -664,6 +736,22 @@
           }
         }
       },
+      "Syncfusion.Blazor.RichTextEditor/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "23.1.43",
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Inputs": "23.1.43",
+          "Syncfusion.Blazor.Navigations": "23.1.43",
+          "Syncfusion.Blazor.Popups": "23.1.43",
+          "Syncfusion.Blazor.SplitButtons": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.RichTextEditor.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
       "Syncfusion.Blazor.Spinner/23.1.43": {
         "dependencies": {
           "Syncfusion.Blazor.Core": "23.1.43"
@@ -692,6 +780,30 @@
       "Syncfusion.Blazor.Themes/23.1.43": {
         "runtime": {
           "lib/net7.0/Syncfusion.Blazor.Themes.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.TreeGrid/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "23.1.43",
+          "Syncfusion.Blazor.Data": "23.1.43",
+          "Syncfusion.Blazor.Grid": "23.1.43",
+          "Syncfusion.Blazor.Navigations": "23.1.43",
+          "Syncfusion.Blazor.Popups": "23.1.43",
+          "Syncfusion.Blazor.Spinner": "23.1.43"
+        },
+        "runtime": {
+          "lib/net7.0/Syncfusion.Blazor.TreeGrid.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.ExcelExport.Net.Core/23.1.43": {
+        "runtime": {
+          "lib/net7.0/Syncfusion.ExcelExport.Net.dll": {
             "assemblyVersion": "23.1.43.0",
             "fileVersion": "23.1.43.0"
           }
@@ -1270,6 +1382,13 @@
       "path": "syncfusion.blazor.buttons/23.1.43",
       "hashPath": "syncfusion.blazor.buttons.23.1.43.nupkg.sha512"
     },
+    "Syncfusion.Blazor.Calendars/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ot8AzHsJBca9Dw/EfeaguqnVSlA2f8yCIvX/Me/LHFuB0UahGhROZJWgLDzEf5rSJBFvhUY4WwcMvZn0jL1dDQ==",
+      "path": "syncfusion.blazor.calendars/23.1.43",
+      "hashPath": "syncfusion.blazor.calendars.23.1.43.nupkg.sha512"
+    },
     "Syncfusion.Blazor.Charts/23.1.43": {
       "type": "package",
       "serviceable": true,
@@ -1305,12 +1424,33 @@
       "path": "syncfusion.blazor.dropdowns/23.1.43",
       "hashPath": "syncfusion.blazor.dropdowns.23.1.43.nupkg.sha512"
     },
+    "Syncfusion.Blazor.Gantt/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xr5oxoLVnn0wVYgOJA6MD0ia0I45FGGLanP/Ck516H3yyqbgF8HzcDRwQZ5V1frKzM0S/9ap+/RgMycJ6dLhlw==",
+      "path": "syncfusion.blazor.gantt/23.1.43",
+      "hashPath": "syncfusion.blazor.gantt.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Grid/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4gALPLzF2HTQtSqxtaAWMaKZwJ/LHDWWqcutdt3LH5a+jPVZkHWUO6Sx6TB7vJGvrnfDkZU9biG6p9iXGUsOYw==",
+      "path": "syncfusion.blazor.grid/23.1.43",
+      "hashPath": "syncfusion.blazor.grid.23.1.43.nupkg.sha512"
+    },
     "Syncfusion.Blazor.Inputs/23.1.43": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-Fi9qAzDDEOEI2lSNjQSKOs4+jeq2SxztT5BnyP/ZtM6+vGt+59p7RGM3AGj6fFO5D7PCjNTgHvSmgXfrFftwIw==",
       "path": "syncfusion.blazor.inputs/23.1.43",
       "hashPath": "syncfusion.blazor.inputs.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Layouts/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-64PLeGvRDUk3CYS3/7SABz93BYx5GBK+jaVkkI449T/nhNs32ckdsZnE78P7srwV061w1ZN80quFYplR3FRFHA==",
+      "path": "syncfusion.blazor.layouts/23.1.43",
+      "hashPath": "syncfusion.blazor.layouts.23.1.43.nupkg.sha512"
     },
     "Syncfusion.Blazor.Lists/23.1.43": {
       "type": "package",
@@ -1340,6 +1480,13 @@
       "path": "syncfusion.blazor.popups/23.1.43",
       "hashPath": "syncfusion.blazor.popups.23.1.43.nupkg.sha512"
     },
+    "Syncfusion.Blazor.RichTextEditor/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HdG20K5O5B+BT/+Xlb7a0pUCRIJI/HjvH4zecMe/QSU/RqO5cItqOnwcY3vuFpgyj9Ad66fJR/4fbv56nKMfYA==",
+      "path": "syncfusion.blazor.richtexteditor/23.1.43",
+      "hashPath": "syncfusion.blazor.richtexteditor.23.1.43.nupkg.sha512"
+    },
     "Syncfusion.Blazor.Spinner/23.1.43": {
       "type": "package",
       "serviceable": true,
@@ -1360,6 +1507,20 @@
       "sha512": "sha512-FmM5LFYDfFNeDfDvsvFrNx7oeZSGs03E8bHuGsIsUZopRdnPxPKzxH8DOUWsJibyjgQdM4Wy4vHeDoy+1oChMQ==",
       "path": "syncfusion.blazor.themes/23.1.43",
       "hashPath": "syncfusion.blazor.themes.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.TreeGrid/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIo4vgNX9x8Y8JD1pN0K7NdF9i5w9K8JIKDD7lcMo54ZS9XdxcHGDFMdZsmrBcOYvaZ6rU685Xrijher2A9BaQ==",
+      "path": "syncfusion.blazor.treegrid/23.1.43",
+      "hashPath": "syncfusion.blazor.treegrid.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.ExcelExport.Net.Core/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YM+XJ+WFwd9gAW63LBnVBDfMkKTkSECk5WAxvDf68DlPd2gT5bwPbyRv0J4+EI+yJU+KweO85/NY6vfheLtwQw==",
+      "path": "syncfusion.excelexport.net.core/23.1.43",
+      "hashPath": "syncfusion.excelexport.net.core.23.1.43.nupkg.sha512"
     },
     "Syncfusion.Licensing/23.1.43": {
       "type": "package",

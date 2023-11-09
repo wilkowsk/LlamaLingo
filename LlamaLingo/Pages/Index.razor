@@ -51,7 +51,7 @@
 
     public bool IsConnected => hubConnection.State == HubConnectionState.Connected;
 
-    protected override async Task OnInitializedAsync()
+    protected override async System.Threading.Tasks.Task OnInitializedAsync()
     {
         hubConnection = new HubConnectionBuilder()
             .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
@@ -69,7 +69,7 @@
         await hubConnection.StartAsync();
     }
 
-    private async Task Send()
+    private async System.Threading.Tasks.Task Send()
     {
         if (!string.IsNullOrEmpty(usernameInput) && !string.IsNullOrEmpty(messageInput))
         {

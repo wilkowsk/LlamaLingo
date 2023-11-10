@@ -6,7 +6,7 @@
 <h2>GanttChart</h2>
 
 <SfGantt DataSource="@TaskList" Height="70vh" Width="70vw" AllowSorting="true" AllowFiltering="true" EnableContextMenu="true" Toolbar="@(new List<string>() { "Search","Add", "Cancel", "Delete", "Edit", "Update","ZoomIn","ZoomOut","ZoomToFit"  })">
-    <GanttTaskFields Id="TaskId" Name="TaskLabel" StartDate="TaskStartDate" EndDate="TaskFinishDate" Duration="TaskDuration" Progress="TaskProgress" ParentID="ParentIdFk" ></GanttTaskFields>
+    <GanttTaskFields Id="TaskId" Name="TaskLabel" StartDate="TaskStartDate" EndDate="TaskFinishDate" Duration="TaskDuration" Progress="TaskProgress" ParentID="ParentIdFk" Child="SubTasks"></GanttTaskFields>
     <GanttSelectionSettings Mode="Syncfusion.Blazor.Grids.SelectionMode.Both"></GanttSelectionSettings>
     <GanttEditSettings AllowEditing="true" AllowTaskbarEditing="true" AllowAdding="true" AllowDeleting="true" ShowDeleteConfirmDialog="true"></GanttEditSettings>
     <GanttSearchSettings Fields="@Searchfields"></GanttSearchSettings>

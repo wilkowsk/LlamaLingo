@@ -2,7 +2,6 @@
 @using LlamaLingo.Models
 @inject DbContext db 
 
-<PageTitle>GanttChart</PageTitle>
 <h2>GanttChart</h2>
 
 <SfGantt DataSource="@TaskList" Height="70vh" Width="70vw" AllowSorting="true" AllowFiltering="true" EnableContextMenu="true" Toolbar="@(new List<string>() { "Search","Add", "Cancel", "Delete", "Edit", "Update","ZoomIn","ZoomOut","ZoomToFit"  })">

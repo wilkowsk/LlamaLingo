@@ -1,7 +1,6 @@
 ﻿@page "/RadarChart"
 @using Syncfusion.Blazor.Charts
 
-<PageTitle>RadarChart</PageTitle>
 <h2>RadarChart</h2>
 
 <style>
@@ -20,14 +19,14 @@
 
 <br/>
 <div id = "ControlRegion">
- <SfChart Theme="Theme.Fluent"   >
-            <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"></ChartPrimaryXAxis>           
-    <ChartSeriesCollection>
-        <ChartSeries DataSource="@dataSource"  Type="ChartSeriesType.Radar" Name="Germany" XName="xValue" YName="yValue">
-        </ChartSeries>
-        <ChartSeries DataSource="@dataSource" Type="ChartSeriesType.Radar" Name="England" XName="xValue" YName="yValue1">
-        </ChartSeries>
-    </ChartSeriesCollection>
+    <SfChart Theme="Theme.Fluent">
+        <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"></ChartPrimaryXAxis>           
+        <ChartSeriesCollection>
+            <ChartSeries DataSource="@dataSource"  Type="ChartSeriesType.Radar" Name="Germany" XName="xValue" YName="yValue">
+            </ChartSeries>
+            <ChartSeries DataSource="@dataSource" Type="ChartSeriesType.Radar" Name="England" XName="xValue" YName="yValue1">
+            </ChartSeries>
+        </ChartSeriesCollection>
         <ChartTooltipSettings Enable="true"></ChartTooltipSettings>
         <ChartZoomSettings EnableSelectionZooming="true"></ChartZoomSettings>
     </SfChart>

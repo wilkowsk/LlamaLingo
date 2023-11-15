@@ -2,9 +2,6 @@
 @inject DbContext db            // Inject the ServerDbContext service for database access
 @inject NavigationManager _nav
 @layout MainLayout
-@using LlamaLingo.Models
-@using System.Data.SqlClient;
-@using System.Data;
 
 <h3>
 	<p>P.O.D.#:@pod</p>
@@ -148,11 +145,4 @@
 <!-- ******************************** INPUT PARAMETERS ********************************** -->
 <!-- ************************************************************************************ -->
 
-@code {
-	[Parameter]
-	[SupplyParameterFromQuery]
-	public int? pod { get; set; }
-	[Parameter]
-	[SupplyParameterFromQuery]
-	public int? pid { get; set; }
-}
+

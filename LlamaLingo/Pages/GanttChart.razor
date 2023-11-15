@@ -1,6 +1,5 @@
 ﻿@page "/GanttChart"
-@using LlamaLingo.Models
-@inject DbContext db 
+@inject DbContext db;
 
 <h2>GanttChart</h2>
 
@@ -12,12 +11,4 @@
 </SfGantt>
 
 
-@code {
-    IEnumerable<LlamaLingo.Models.Task> TaskList;
 
-    protected override void OnInitialized()
-    {
-        TaskList = db.Set<LlamaLingo.Models.Task>().ToList();
-    }
-    public string[] Searchfields = new string[] { "TaskId", "TaskLabel", "TaskStartDate", "TaskFinishDate", "TaskDuration", "TaskProgress", "ParentIdFk" };
-}

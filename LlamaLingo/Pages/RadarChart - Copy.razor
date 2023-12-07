@@ -1,0 +1,80 @@
+﻿@page "/color-chart"
+@using Syncfusion.Blazor.Charts;
+@using Syncfusion.Blazor.Notifications
+@using Syncfusion.Blazor.Buttons
+@using Syncfusion.Blazor.Inputs
+@using Syncfusion.Blazor.DropDowns;
+@inject NavigationManager NavManager;
+
+<PageTitle>Polar/Radar</PageTitle>
+<h2>Polar/Radar</h2>
+<br />
+
+<SfButton OnClick="ToColorTable">Back</SfButton>
+<SfButton OnClick="NextDatapoint">Next Datapoint</SfButton>
+
+<SfChart Title=@title>
+	<ChartSeriesCollection>
+		<ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"
+						   LabelPlacement="LabelPlacement.OnTicks" Coefficient="135">
+
+		</ChartPrimaryXAxis>
+		<ChartPrimaryYAxis Minimum="-85" Maximum="255" Interval="85" LabelFormat="{value}">
+
+		</ChartPrimaryYAxis>
+		<ChartSeries Type="ChartSeriesType.Radar" DrawType="ChartDrawType.Line"
+					 DataSource="@ChartData" XName="Month" YName="Temperature">
+			<ChartMarker Visible="true" Height="17" Width="17"></ChartMarker>
+		</ChartSeries>
+	</ChartSeriesCollection>
+	<ChartTooltipSettings Enable="true"></ChartTooltipSettings>
+</SfChart>
+
+@code {
+
+	public String title = "Ekrienne";
+
+	public class ChartDataModel
+	{
+		public string Month { get; set; }
+		public double Temperature { get; set; }
+	}
+
+	public static List<ChartDataModel> ChartData = new List<ChartDataModel>
+	{
+		new ChartDataModel {Month = "Red Strength", Temperature = 1},
+		new ChartDataModel {Month = "Green Strength", Temperature = 21},
+		new ChartDataModel {Month = "Blue Strength", Temperature = 12}
+	};
+
+	public static List<string> Names = new List<string> {
+		"Test",
+		"Test2",
+		"Test3"
+	};
+
+	protected override void OnInitialized()
+	{
+		base.OnInitialized();
+		var components = ColorManage.getComponents();
+		var componentNames = ColorManage.getComponentNames();
+		for (int i = 0; i < components.Count; i++)
+		{
+			ChartData.Add(new ChartDataModel { Month = componentNames[i], Temperature = components[i] });
+			ChartData.Remove(ChartData[0]);
+		}
+		title = ColorManage.getColors()[ColorManage.getCurrentId()] + " (ID " + ColorManage.getCurrentId() + ")";
+	}
+
+	public void ToColorTable()
+	{
+		NavManager.NavigateTo("/color-table");
+
+	}
+
+	public void NextDatapoint()
+	{
+		ColorManage.setCurrentId(ColorManage.getCurrentId() + 1);
+		OnInitialized();
+	}
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QoXYq1OXMX7rbC3Qibo0fOgHl8Z7ZPyY3pHtIVRV+Bs=",
+  "Hash": "KjQI9GWgOb28ToXYjmKpJsAdtm0A39NpHUn8eTZT1ug=",
   "Source": "LlamaLingo",
   "BasePath": "_content/LlamaLingo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LlamaLingo\\wwwroot",
       "Source": "LlamaLingo",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-floating-action-button.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-floating-action-button.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-floating-action-button.min.js",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-floating-action-button.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-floating-action-button.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-speeddial.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-speeddial.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-speeddial.min.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-speeddial.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.buttons\\23.1.43\\staticwebassets\\scripts\\sf-speeddial.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-calendar.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-calendar.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-calendar.min.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-calendar.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-calendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-datepicker.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-datepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-datepicker.min.js",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-datepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-datepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-daterangepicker.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-daterangepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-daterangepicker.min.js",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-daterangepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-daterangepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-timepicker.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-timepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-timepicker.min.js",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-timepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.calendars\\23.1.43\\staticwebassets\\scripts\\sf-timepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-accumulation-chart.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-accumulation-chart.min.js",
       "SourceId": "Syncfusion.Blazor.Charts",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Charts",
       "RelativePath": "scripts/sf-accumulation-chart.min.js",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-accumulation-chart.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-accumulation-chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-chart.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-chart.min.js",
       "SourceId": "Syncfusion.Blazor.Charts",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Charts",
       "RelativePath": "scripts/sf-chart.min.js",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-chart.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.charts\\23.1.43\\staticwebassets\\scripts\\sf-chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\compression.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\compression.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/compression.min.js",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\compression.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\compression.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\excelexport.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\excelexport.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/excelexport.min.js",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\excelexport.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\excelexport.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\fileutils.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\fileutils.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/fileutils.min.js",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\fileutils.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\fileutils.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\pdfexport.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\pdfexport.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/pdfexport.min.js",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\pdfexport.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\pdfexport.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popup.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popup.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/popup.min.js",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popup.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popupsbase.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popupsbase.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/popupsbase.min.js",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popupsbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\popupsbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\sf-svg-export.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\sf-svg-export.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/sf-svg-export.min.js",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\sf-svg-export.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\sf-svg-export.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\svgbase.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\svgbase.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/svgbase.min.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\svgbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\svgbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/syncfusion-blazor.min.js",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-base.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-base.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/syncfusion-blazor-base.min.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-base.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-base.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-extended.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-extended.min.js",
       "SourceId": "Syncfusion.Blazor.Core",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Core",
       "RelativePath": "scripts/syncfusion-blazor-extended.min.js",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-extended.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.core\\23.1.43\\staticwebassets\\scripts\\syncfusion-blazor-extended.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\scripts\\data.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\scripts\\data.min.js",
       "SourceId": "Syncfusion.Blazor.Data",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Data",
       "RelativePath": "scripts/data.min.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\scripts\\data.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.data\\23.1.43\\staticwebassets\\scripts\\data.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-dropdownlist.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-dropdownlist.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-dropdownlist.min.js",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-dropdownlist.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-dropdownlist.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-listbox.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-listbox.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-listbox.min.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-listbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-listbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-mention.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-mention.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-mention.min.js",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-mention.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-mention.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-multiselect.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-multiselect.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-multiselect.min.js",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-multiselect.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sf-multiselect.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sortable.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sortable.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sortable.min.js",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sortable.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.dropdowns\\23.1.43\\staticwebassets\\scripts\\sortable.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\scripts\\sf-gantt.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\scripts\\sf-gantt.min.js",
       "SourceId": "Syncfusion.Blazor.Gantt",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Gantt",
       "RelativePath": "scripts/sf-gantt.min.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\scripts\\sf-gantt.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.gantt\\23.1.43\\staticwebassets\\scripts\\sf-gantt.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\scripts\\sf-grid.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\scripts\\sf-grid.min.js",
       "SourceId": "Syncfusion.Blazor.Grid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Grid",
       "RelativePath": "scripts/sf-grid.min.js",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\scripts\\sf-grid.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.grid\\23.1.43\\staticwebassets\\scripts\\sf-grid.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-colorpicker.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-colorpicker.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-colorpicker.min.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-colorpicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-colorpicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-maskedtextbox.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-maskedtextbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-maskedtextbox.min.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-maskedtextbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-maskedtextbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-numerictextbox.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-numerictextbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-numerictextbox.min.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-numerictextbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-numerictextbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-rating.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-rating.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-rating.min.js",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-rating.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-rating.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-signature.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-signature.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-signature.min.js",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-signature.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-signature.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-slider.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-slider.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-slider.min.js",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-slider.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-slider.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-textbox.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-textbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-textbox.min.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-textbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-textbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-uploader.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-uploader.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-uploader.min.js",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-uploader.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.inputs\\23.1.43\\staticwebassets\\scripts\\sf-uploader.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-dashboard-layout.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-dashboard-layout.min.js",
       "SourceId": "Syncfusion.Blazor.Layouts",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Layouts",
       "RelativePath": "scripts/sf-dashboard-layout.min.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-dashboard-layout.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-dashboard-layout.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-splitter.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-splitter.min.js",
       "SourceId": "Syncfusion.Blazor.Layouts",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Layouts",
       "RelativePath": "scripts/sf-splitter.min.js",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-splitter.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.layouts\\23.1.43\\staticwebassets\\scripts\\sf-splitter.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\scripts\\sf-listview.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\scripts\\sf-listview.min.js",
       "SourceId": "Syncfusion.Blazor.Lists",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Lists",
       "RelativePath": "scripts/sf-listview.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\scripts\\sf-listview.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.lists\\23.1.43\\staticwebassets\\scripts\\sf-listview.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\navigationsbase.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\navigationsbase.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/navigationsbase.min.js",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\navigationsbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\navigationsbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-accordion.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-accordion.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-accordion.min.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-accordion.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-accordion.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-breadcrumb.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-breadcrumb.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-breadcrumb.min.js",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-breadcrumb.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-breadcrumb.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-carousel.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-carousel.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-carousel.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-carousel.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-contextmenu.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-contextmenu.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-contextmenu.min.js",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-contextmenu.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-contextmenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-menu.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-menu.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-menu.min.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-menu.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-menu.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-pager.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-pager.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-pager.min.js",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-pager.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-pager.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-sidebar.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-sidebar.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-sidebar.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-sidebar.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-sidebar.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-tab.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-tab.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-tab.min.js",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-tab.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-tab.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-toolbar.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-toolbar.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-toolbar.min.js",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-toolbar.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-toolbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-treeview.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-treeview.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-treeview.min.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-treeview.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.navigations\\23.1.43\\staticwebassets\\scripts\\sf-treeview.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\scripts\\sf-toast.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\scripts\\sf-toast.min.js",
       "SourceId": "Syncfusion.Blazor.Notifications",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Notifications",
       "RelativePath": "scripts/sf-toast.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\scripts\\sf-toast.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.notifications\\23.1.43\\staticwebassets\\scripts\\sf-toast.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-dialog.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-dialog.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-dialog.min.js",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-dialog.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-dialog.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-tooltip.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-tooltip.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-tooltip.min.js",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-tooltip.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.popups\\23.1.43\\staticwebassets\\scripts\\sf-tooltip.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\scripts\\sf-richtexteditor.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\scripts\\sf-richtexteditor.min.js",
       "SourceId": "Syncfusion.Blazor.RichTextEditor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.RichTextEditor",
       "RelativePath": "scripts/sf-richtexteditor.min.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\scripts\\sf-richtexteditor.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\23.1.43\\staticwebassets\\scripts\\sf-richtexteditor.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\sf-spinner.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\sf-spinner.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/sf-spinner.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\sf-spinner.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\sf-spinner.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\spinner.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\spinner.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/spinner.min.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\spinner.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.spinner\\23.1.43\\staticwebassets\\scripts\\spinner.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\sf-drop-down-button.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\sf-drop-down-button.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/sf-drop-down-button.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\sf-drop-down-button.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\sf-drop-down-button.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\splitbuttonsbase.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\splitbuttonsbase.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/splitbuttonsbase.min.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\splitbuttonsbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\23.1.43\\staticwebassets\\scripts\\splitbuttonsbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap.css",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap4.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap4.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap4.css",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap4.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap5.css",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap5-dark.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap5-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "bootstrap-dark.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\bootstrap-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "fabric.css",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "fabric-dark.css",
       "AssetKind": "All",
@@ -1102,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fabric-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "fluent.css",
       "AssetKind": "All",
@@ -1119,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "fluent-dark.css",
       "AssetKind": "All",
@@ -1136,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\fluent-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\highcontrast.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\highcontrast.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "highcontrast.css",
       "AssetKind": "All",
@@ -1153,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\highcontrast.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\highcontrast.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "material.css",
       "AssetKind": "All",
@@ -1170,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "material3.css",
       "AssetKind": "All",
@@ -1187,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "material3-dark.css",
       "AssetKind": "All",
@@ -1204,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material3-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "material-dark.css",
       "AssetKind": "All",
@@ -1221,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\material-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "tailwind.css",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind-dark.css",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind-dark.css",
       "SourceId": "Syncfusion.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Themes",
       "RelativePath": "tailwind-dark.css",
       "AssetKind": "All",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind-dark.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.43\\staticwebassets\\tailwind-dark.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\scripts\\sf-treegrid.min.js",
+      "Identity": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\scripts\\sf-treegrid.min.js",
       "SourceId": "Syncfusion.Blazor.TreeGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.TreeGrid",
       "RelativePath": "scripts/sf-treegrid.min.js",
       "AssetKind": "All",
@@ -1272,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\scripts\\sf-treegrid.min.js"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\.nuget\\packages\\syncfusion.blazor.treegrid\\23.1.43\\staticwebassets\\scripts\\sf-treegrid.min.js"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LlamaLingo.styles.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LlamaLingo.styles.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "LlamaLingo.styles.css",
       "AssetKind": "All",
@@ -1289,13 +1289,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LlamaLingo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LlamaLingo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LlamaLingo.bundle.scp.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LlamaLingo.bundle.scp.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "LlamaLingo.bundle.scp.css",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LlamaLingo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LlamaLingo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Audio\\Ripingtons.mp3",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Audio\\Ripingtons.mp3",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "Blobs/Audio/Ripingtons.mp3",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Blobs\\Audio\\Ripingtons.mp3"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\BG\\Starry.jpg",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\BG\\Starry.jpg",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "Blobs/BG/Starry.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Blobs\\BG\\Starry.jpg"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Video\\Rain.mp4",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Video\\Rain.mp4",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "Blobs/Video/Rain.mp4",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Blobs\\Video\\Rain.mp4"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Video\\Starry_Night.mp4",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\Blobs\\Video\\Starry_Night.mp4",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "Blobs/Video/Starry_Night.mp4",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Blobs\\Video\\Starry_Night.mp4"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.eot",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.eot",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/fonts/syncfusion/icons.eot",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.eot"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.svg",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.svg",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/fonts/syncfusion/icons.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.svg"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.ttf",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.ttf",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/fonts/syncfusion/icons.ttf",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.woff",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\fonts\\syncfusion\\icons.woff",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/fonts/syncfusion/icons.woff",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.woff"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\site.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\syncfusion-blazor-icons.css",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\css\\syncfusion-blazor-icons.css",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "css/syncfusion-blazor-icons.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\css\\syncfusion-blazor-icons.css"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\favicon.ico",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\background_acad.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\background_acad.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/background_acad.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\background_acad.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BG_Audio.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BG_Audio.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/BG_Audio.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\BG_Audio.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BGDC_User_Interview.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BGDC_User_Interview.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/BGDC_User_Interview.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\BGDC_User_Interview.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BGLP_User_Week.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\BGLP_User_Week.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/BGLP_User_Week.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\BGLP_User_Week.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Custom_Page.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Custom_Page.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Custom_Page.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Custom_Page.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Lascaux.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Lascaux.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux_noun.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux_noun.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Lascaux_noun.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Lascaux_noun.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux_verb.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Lascaux_verb.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Lascaux_verb.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Lascaux_verb.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\menu_blank.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\menu_blank.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/menu_blank.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\menu_blank.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Menu_Deco_cave.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Menu_Deco_cave.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Menu_Deco_cave.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Menu_Deco_cave.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\menu_Goal.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\menu_Goal.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/menu_Goal.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\menu_Goal.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Menu_Task.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Menu_Task.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Menu_Task.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Menu_Task.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Role_BG.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\BG\\Role_BG.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/BG/Role_BG.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BG\\Role_BG.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_add.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_add.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btn_add.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btn_add.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_change.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_change.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btn_change.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btn_change.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_delete.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_delete.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btn_delete.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btn_delete.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_list.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btn_list.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btn_list.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btn_list.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Audio.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Audio.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Audio.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Audio.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Goal.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Goal.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Goal.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Goal.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Guide.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Guide.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Guide.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Guide.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Guru.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Guru.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Guru.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Guru.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Noun.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Noun.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Noun.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Noun.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_NOVA.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_NOVA.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_NOVA.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_NOVA.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_PDF.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_PDF.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_PDF.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_PDF.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Person.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Person.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Person.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Person.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Questions.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Questions.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Questions.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Questions.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Report.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Report.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Report.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Report.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Task.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Task.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Task.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Task.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Verb.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Verb.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Verb.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Verb.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Video.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Btn_Luster_Video.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Btn_Luster_Video.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Btn_Luster_Video.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifact_Audio.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifact_Audio.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnArtifact_Audio.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnArtifact_Audio.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactA.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactA.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnArtifactA.png",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnArtifactA.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactC.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactC.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnArtifactC.png",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnArtifactC.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactD.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactD.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnArtifactD.png",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnArtifactD.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactL.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnArtifactL.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnArtifactL.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnArtifactL.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnJulian5.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnJulian5.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnJulian5.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnJulian5.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnJulian6.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\btnJulian6.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/btnJulian6.png",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\btnJulian6.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_A.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_A.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Button_A.png",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Button_A.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_C.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_C.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Button_C.png",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Button_C.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_D.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_D.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Button_D.png",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Button_D.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_L.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Button_L.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Button_L.png",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Button_L.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_account.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_account.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_account.png",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_account.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_audio.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_audio.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_audio.png",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_audio.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_brand.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_brand.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_brand.png",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_brand.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_city.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_city.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_city.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_city.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_element.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_element.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_element.png",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_element.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_faction.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_faction.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_faction.png",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_faction.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_interview.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_interview.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_interview.png",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_interview.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_location.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_location.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_location.png",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_location.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_Program.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_Program.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_Program.png",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_Program.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_skill.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_skill.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_skill.png",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_skill.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_work.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Buttons_luster_work.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Buttons_luster_work.png",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Buttons_luster_work.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Add.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Add.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Goal_Add.png",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Goal_Add.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Change.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Change.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Goal_Change.png",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Goal_Change.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Delete.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_Delete.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Goal_Delete.png",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Goal_Delete.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_List.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Goal_List.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Goal_List.png",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Goal_List.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Table_GOALS.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\buttons\\Table_GOALS.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/buttons/Table_GOALS.png",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buttons\\Table_GOALS.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Commit.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Commit.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Panel_Commit.png",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Panel_Commit.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Commit_add.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Commit_add.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Panel_Commit_add.png",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Panel_Commit_add.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_filter.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_filter.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Panel_filter.png",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Panel_filter.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Fluer.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Fluer.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Panel_Fluer.png",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Panel_Fluer.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Marque.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Panel_Marque.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Panel_Marque.png",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Panel_Marque.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\shadow_black.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\shadow_black.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/shadow_black.png",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\shadow_black.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\shadow_white.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\shadow_white.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/shadow_white.png",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\shadow_white.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Table_GOALS.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\Table_GOALS.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/Table_GOALS.png",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\Table_GOALS.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\toggle.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\toggle.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/toggle.png",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\toggle.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_acad.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_acad.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_acad.png",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_acad.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_admn.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_admn.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_admn.png",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_admn.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_ainn.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_ainn.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_ainn.png",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_ainn.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_engr.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_engr.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_engr.png",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_engr.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_user.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_user.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_user.png",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_user.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_xprt.png",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\images\\UIpanels\\UseCase_xprt.png",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "images/UIpanels/UseCase_xprt.png",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UIpanels\\UseCase_xprt.png"
     },
     {
-      "Identity": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\scripts\\lodash.min.js",
+      "Identity": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\scripts\\lodash.min.js",
       "SourceId": "LlamaLingo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JXEli\\Documents\\GitHub\\LlamaLingo\\LlamaLingo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jamie\\Documents\\LlamaLingo\\LlamaLingo\\wwwroot\\",
       "BasePath": "_content/LlamaLingo",
       "RelativePath": "scripts/lodash.min.js",
       "AssetKind": "All",

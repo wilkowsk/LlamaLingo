@@ -1,0 +1,55 @@
+﻿@page "/color-table"
+@using Syncfusion.Blazor.Grids;
+@using Syncfusion.Blazor.Inputs;
+@inject NavigationManager NavManager;
+<!--@using Syncfusion.Blazor.Buttons;-->
+
+<PageTitle>Polar/Radar</PageTitle>
+<h2>Polar/Radar</h2>
+<br />
+
+<SfNumericTextBox TValue="int?" Value=@id ShowSpinButton=false>
+	<NumericTextBoxEvents TValue="int?" ValueChange="@ValueChangeHandler"></NumericTextBoxEvents>
+</SfNumericTextBox>
+Your current ID is @currentId
+<SfGrid DataSource="colors"></SfGrid>
+
+@code {
+	public int id { get; set; }
+
+	public int currentId { get; set; }
+
+	public List<Color> colors { get; set; }
+
+	public class Color
+	{
+		public int? id { get; set; }
+		public string? color { get; set; }
+	}
+
+	protected override void OnInitialized()
+	{
+		base.OnInitialized();
+		id = currentId = ColorManage.getCurrentId();
+		var inputIds = ColorManage.getIDs();
+		var inputColors = ColorManage.getColors();
+		colors = new List<Color>();
+		for (int i = 0; i < inputIds.Count; i++)
+		{
+			colors.Add(new Color { id = inputIds[i], color = inputColors[i] });
+		}
+	}
+
+	public void Update()
+	{
+		if (!ColorManage.setCurrentId(id)) return;
+		currentId = ColorManage.getCurrentId();
+		NavManager.NavigateTo("/color-chart");
+	}
+
+	private void ValueChangeHandler(Syncfusion.Blazor.Inputs.ChangeEventArgs<int?> args)
+	{
+		id = (int)args.Value;
+		Update();
+	}
+}

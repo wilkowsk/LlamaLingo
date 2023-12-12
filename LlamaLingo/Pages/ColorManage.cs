@@ -89,6 +89,8 @@ namespace LlamaLingo.Pages
             return output;
 		}
 
+
+
         public static List<string> getColors()
         {
 			connect();
